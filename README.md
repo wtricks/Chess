@@ -23,4 +23,12 @@ You are downloading this project. Make sure you change `Font` name, used in `Con
 
 # Images
 
+![Main](screenshots/main.png?raw=true)
+
 ![Board](screenshots/board.png?raw=true)         
+
+![Moves](screenshots/moves.png?raw=true)
+
+![Capture](screenshots/capture.png?raw=true)
+
+![Queen](screenshots/queen.png?raw=true)
